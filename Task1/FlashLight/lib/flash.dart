@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:torch_controller/torch_controller.dart';
-import '';
 
 class flash extends StatefulWidget {
   const flash({super.key});
@@ -34,7 +33,6 @@ class _flashState extends State<flash> {
             },
           ),
         ),
-
       ],
     );
   }
